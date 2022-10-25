@@ -2116,4 +2116,34 @@
       "director": "Ashish R. Shukla."
     },
 
+  {
+    "id": 106,
+    "name": "Mai",
+    "rating": 7.1,
+    "description": "The story is about a grieving mother discovers the criminals behind her daughter's tragic death, and transforms from meek to merciless to get the real story",
+    "category": ["Drama, mystery, thriller"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": [
+        "Sakshi Tanwar",
+        "Vivek Mushran ",
+        "Wamika Gabbi",
+        "Raima Sen",
+        "Anant Vidhaat Sharma",
+        "Vaibhav Raj Gupta",
+        "Ankur Ratan ",
+        "Seema Pahwa",
+        "Prashant Narayanan",
+        "Omkar Jaiprakash",
+        "Saurabh Dubey",
+        "Sarika Singh",
+        "Rashmi Seth",
+        "Nadeem Sheikh",
+        "Sawan Tiwari",
+        "Akanksha Pandey"
+      ],
+      "director": "Anisha Lal"
+      "creator": "Atul Mongia"
+    },
+
 ]
